@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.heading {
+    font-size: 2rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    font-size: 1.5rem;
+}
+
+.button {
+    font-size: 1.2rem;
+    outline: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin: 1.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.start {
+    background: rgb(73, 145, 73);
+}
+
+.stop {
+    background: rgb(186, 107, 34);
+}
+
+.reset {
+    background: gray;
+}
